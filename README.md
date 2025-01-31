@@ -1,4 +1,4 @@
-# LIBRARY-MANAGEMENT-SYSTEM (MERN)
+# BOOK STORE APP
 
 This is a web application built using the MERN (MongoDB, Express.js, React, Node.js) stack. It is a library management system that allows users to Search and Request Book to the Admin.
 
