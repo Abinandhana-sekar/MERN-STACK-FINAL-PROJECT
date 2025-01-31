@@ -1,0 +1,143 @@
+[
+  {
+    "bookname": "The Power of Habit",
+    "authorname": "Charles Duhigg",
+    "type": "Personal Growth",
+    "rating": 4.5,
+    "bookImage": "https://m.media-amazon.com/images/I/71ONWR6eXDL._SY342_.jpg",
+    "price": 12.99
+  },
+  {
+    "bookname": "Atomic Habits",
+    "authorname": "James Clear",
+    "type": "Personal Growth",
+    "rating": 4.8,
+    "bookImage": "https://m.media-amazon.com/images/I/81F90H7hnML._AC_UY436_FMwebp_QL65_.jpg",
+    "price": 15.99
+  },
+  {
+    "bookname": "The 7 Habits of Highly Effective People",
+    "authorname": "Stephen R. Covey",
+    "type": "Personal Growth",
+    "rating": 4.7,
+    "bookImage": "https://m.media-amazon.com/images/I/81qgEPE6k1L._AC_UY436_FMwebp_QL65_.jpg",
+    "price": 10.99
+  },
+  
+  {
+    "bookname": "Sapiens: A Brief History of Humankind",
+    "authorname": "Yuval Noah Harari",
+    "type": "History",
+    "rating": 4.7,
+    "bookImage": "https://m.media-amazon.com/images/I/713jIoMO3UL._AC_UY436_FMwebp_QL65_.jpg",
+    "price": 18.99
+  },
+  {
+    "bookname": "The Silk Roads: A New History of the World",
+    "authorname": "Peter Frankopan",
+    "type": "History",
+    "rating": 4.5,
+    "bookImage": "https://m.media-amazon.com/images/I/A15++jTYXJL._AC_UY436_FMwebp_QL65_.jpg",
+    "price": 19.99
+  },
+  {
+    "bookname": "A People's History of the United States",
+    "authorname": "Howard Zinn",
+    "type": "History",
+    "rating": 4.6,
+    "bookImage": "https://m.media-amazon.com/images/I/71Zb-D8NaGL._AC_UY436_FMwebp_QL65_.jpg",
+    "price": 13.99
+  },
+  
+  {
+    "bookname": "Leaders Eat Last",
+    "authorname": "Simon Sinek",
+    "type": "Leadership & Entrepreneur",
+    "rating": 4.8,
+    "bookImage": "https://m.media-amazon.com/images/I/71WBGWgi8iL._AC_UY436_FMwebp_QL65_.jpg",
+    "price": 14.99
+  },
+  {
+    "bookname": "Start with Why",
+    "authorname": "Simon Sinek",
+    "type": "Leadership & Entrepreneur",
+    "rating": 4.7,
+    "bookImage": "https://m.media-amazon.com/images/I/71M1P287BjL._AC_UY436_FMwebp_QL65_.jpg",
+    "price": 13.99
+  },
+  {
+    "bookname": "The Lean Startup",
+    "authorname": "Eric Ries",
+    "type": "Leadership & Entrepreneur",
+    "rating": 4.5,
+    "bookImage": "https://m.media-amazon.com/images/I/81vvgZqCskL._AC_UY436_FMwebp_QL65_.jpg",
+    "price": 15.99
+  },
+  
+  {
+    "bookname": "The Hard Thing About Hard Things",
+    "authorname": "Ben Horowitz",
+    "type": "Leadership & Entrepreneur",
+    "rating": 4.6,
+    "bookImage": "https://m.media-amazon.com/images/I/810u9MkT3SL._AC_UY436_FMwebp_QL65_.jpg",
+    "price": 17.99
+  },
+  {
+    "bookname": "The Innovator's Dilemma",
+    "authorname": "Clayton Christensen",
+    "type": "Technology",
+    "rating": 4.7,
+    "bookImage": "https://m.media-amazon.com/images/I/713Ft95UoML._AC_UY436_FMwebp_QL65_.jpg",
+    "price": 18.99
+  },
+  {
+    "bookname": "The Phoenix Project",
+    "authorname": "Gene Kim, Kevin Behr, George Spafford",
+    "type": "Technology",
+    "rating": 4.6,
+    "bookImage": "https://m.media-amazon.com/images/I/71DVPnwUquL._AC_UY436_FMwebp_QL65_.jpg",
+    "price": 16.99
+  },
+  {
+    "bookname": "AI Superpowers",
+    "authorname": "Kai-Fu Lee",
+    "type": "Technology",
+    "rating": 4.5,
+    "bookImage": "https://m.media-amazon.com/images/I/61p2KfFlV9L._AC_UY436_FMwebp_QL65_.jpg",
+    "price": 14.99
+  },
+  
+  {
+    "bookname": "The 4-Hour Workweek",
+    "authorname": "Tim Ferriss",
+    "type": "Technology",
+    "rating": 4.7,
+    "bookImage": "https://m.media-amazon.com/images/I/6142S0D-PiL._AC_UY436_FMwebp_QL65_.jpg",
+    "price": 15.99
+  },
+  {
+    "bookname": "The Body Keeps the Score",
+    "authorname": "Bessel van der Kolk",
+    "type": "Health and Fitness",
+    "rating": 4.9,
+    "bookImage": "https://m.media-amazon.com/images/I/71BCCd79xgL._AC_UY436_FMwebp_QL65_.jpg",
+    "price": 16.99
+  },
+  {
+    "bookname": "Why We Sleep",
+    "authorname": "Matthew Walker",
+    "type": "Health and Fitness",
+    "rating": 4.8,
+    "bookImage": "https://m.media-amazon.com/images/I/71k+6XWQelL._AC_UY436_FMwebp_QL65_.jpg",
+    "price": 14.99
+  },
+  {
+    "bookname": "How to Be Well",
+    "authorname": "Frank Lipman",
+    "type": "Health and Fitness",
+    "rating": 4.6,
+    "bookImage": "https://m.media-amazon.com/images/I/71mnVXCpP6L._AC_UY436_FMwebp_QL65_.jpg",
+    "price": 19.99
+  }
+  
+]
